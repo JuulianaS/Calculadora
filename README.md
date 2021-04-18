@@ -1,2 +1,2 @@
 # Calculadora
-Android Studio 24/10/2020
+Calculadora simples para fim acadêmico.
